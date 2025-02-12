@@ -15,5 +15,3 @@
 - **CSS3**: Para el diseño y estilos de la aplicación.
 - **JavaScript**: Para la lógica y funcionalidad interactiva.
 
-## Estructura de Archivos
-amigo-secreto/ │ ├── index.html # Archivo principal HTML con la estructura de la aplicación. ├── style.css # Archivo CSS que contiene los estilos de la aplicación. ├── app.js # Archivo JavaScript con la lógica de agregar nombres y sortear. └── assets/ # Directorio que contiene imágenes e íconos. ├── amigo-secreto.png └── play_circle_outline.png
